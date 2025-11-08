@@ -2,6 +2,7 @@
 
 A clean and basic full-stack application structure built with **Nuxt 4**, **Nitro server routes**, and **MongoDB (Mongoose)**.  
 This template is designed to provide a scalable starting point for full-stack development with best practices for backend structure, API organization, and database integration.
+
 ---
 
 ## Overview
